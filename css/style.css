@@ -39,11 +39,15 @@ h1 a:hover {
 h2 {
 	color: rgb(92, 108, 103);
 }
+#feature {
+	display: block;
+}
 .nicklace {
 	border: solid 5px rgb(135, 158, 149);
 }
 #press {
 	margin-bottom: 20px;
+	display: block;
 }
 .img {
 	float: left;
