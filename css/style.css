@@ -20,6 +20,9 @@ body {
 h1 {
 	color: rgb(135, 158, 149);
 }
+h1:hover {
+	color: rgb(92, 108, 103);
+}
 h2 {
 	color: rgb(114, 130, 139);
 }
