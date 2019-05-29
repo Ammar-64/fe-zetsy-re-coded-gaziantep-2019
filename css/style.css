@@ -42,6 +42,9 @@ h2 {
 .nicklace {
 	border: solid 5px rgb(135, 158, 149);
 }
+.press {
+	margin-bottom: 20px;
+}
 .img {
 	float: left;
 	border: solid 5px rgb(193, 193, 193);
