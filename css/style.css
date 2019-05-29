@@ -46,7 +46,6 @@ h2 {
 	border: solid 5px rgb(135, 158, 149);
 }
 #press {
-	margin-bottom: 20px;
 	display: block;
 }
 img {
@@ -61,7 +60,6 @@ img:hover {
 footer {
 	text-align: right;
 	background: #fff;
-	margin-top: 20px;
 }
 
 /* Write all remaining styles here */
