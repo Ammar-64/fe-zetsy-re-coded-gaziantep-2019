@@ -24,11 +24,11 @@ h2 {
 	color: rgb(114, 130, 139);
 }
 .nicklace {
-	border: solid 5px rgb(148, 163, 157);
+	border: solid 5px rgb(135, 158, 149);
 }
 .img {
 	float: left;
-	border: solid 5px rgb(190, 189, 190);
+	border: solid 5px rgb(193, 193, 193);
 	margin: 2px;
 }
 .img:hover {
