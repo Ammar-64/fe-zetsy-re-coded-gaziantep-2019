@@ -48,13 +48,13 @@ h2 {
 #press {
 	display: block;
 }
-img {
+.logo {
 	float: left;
 	border: solid 5px rgb(193, 193, 193);
 	margin: 2px;
 	margin-bottom: 20px;
 }
-img:hover {
+.logo:hover {
 	border: solid 5px rgb(92, 108, 103);
 }
 footer {
