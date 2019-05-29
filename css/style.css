@@ -27,6 +27,12 @@ h1 {
 	color: rgb(135, 158, 149);
 	text-decoration: none;
 }
+h1 a {
+	font-weight: normal;
+	font-family: 'Baskerville', serif;
+	text-decoration: none;
+	color: rgb(135, 158, 149);
+}
 h1:hover {
 	color: rgb(92, 108, 103);
 }
