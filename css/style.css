@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -15,6 +15,26 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+	height: 100%;
 }
-
+h1 {
+	color: rgb(137, 155, 149);
+}
+h2 {
+	color: rgb(114, 130, 139);
+}
+.nicklace {
+	border: solid 5px rgb(148, 163, 157);
+}
+.img {
+	float: left;
+	border: solid 5px rgb(190, 189, 190);
+	margin: 2px;
+}
+.img:hover {
+	border: solid 5px rgb(88, 101, 97);
+}
+footer {
+	float: right;
+}
 /* Write all remaining styles here */
