@@ -49,12 +49,12 @@ h2 {
 	margin-bottom: 20px;
 	display: block;
 }
-.img {
+img {
 	float: left;
 	border: solid 5px rgb(193, 193, 193);
 	margin: 2px;
 }
-.img:hover {
+img:hover {
 	border: solid 5px rgb(92, 108, 103);
 }
 footer {
